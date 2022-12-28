@@ -1,0 +1,814 @@
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--00047.jpg 758,438,771,457,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--00082.jpg 760,440,776,459,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--00117.jpg 746,423,765,451,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--00152.jpg 794,431,813,463,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--00187.jpg 887,412,909,444,0 285,419,301,442,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--00222.jpg 1017,395,1039,426,1 304,392,326,433,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--00257.jpg 1026,393,1045,424,1 274,392,296,433,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--00362.jpg 969,305,1003,356,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--00496.jpg 638,430,654,449,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--00549.jpg 731,455,744,474,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--00585.jpg 651,420,670,443,0 748,462,761,481,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--00620.jpg 748,440,761,459,0 453,438,469,466,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--00655.jpg 618,376,631,395,0 743,425,762,453,0 407,423,420,446,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--00690.jpg 610,383,629,411,0 742,435,761,463,0 386,433,405,461,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--00795.jpg 743,432,762,464,0 608,379,627,411,0 384,431,403,459,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--00830.jpg 744,435,763,463,0 608,381,627,409,0 384,432,403,460,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--00865.jpg 743,433,762,461,0 608,381,627,409,0 383,430,402,458,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--00900.jpg 608,381,627,409,0 743,434,762,462,0 384,431,403,459,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--00935.jpg 608,381,627,409,0 741,433,763,461,0 384,431,403,459,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--00971.jpg 743,428,762,459,1 608,376,627,407,1 383,426,402,457,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--01006.jpg 743,428,762,459,1 608,376,627,407,1 382,427,401,458,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--01111.jpg 743,426,762,457,1 606,373,625,404,1 378,419,400,455,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--01146.jpg 739,421,758,452,1 601,368,620,399,1 371,419,390,450,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--01181.jpg 751,427,770,458,1 604,370,623,401,1 356,425,375,456,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--01216.jpg 784,417,803,448,1 611,341,630,382,1 323,414,342,445,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--01251.jpg 800,399,819,430,1 592,314,611,350,1 240,396,259,427,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--01286.jpg 824,394,843,425,1 588,298,607,334,1 182,380,210,421,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--01321.jpg 835,392,857,428,1 572,288,594,329,1 120,376,151,427,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--01821.jpg 655,432,668,453,1 699,431,715,457,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--01856.jpg 777,452,790,478,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--01893.jpg 857,438,876,466,1 226,429,245,457,1 634,381,653,409,1 712,385,731,413,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--01928.jpg 943,405,971,442,1 608,316,636,357,1 725,321,753,362,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--01963.jpg 570,234,610,284,0 760,244,794,294,0 1087,373,1121,419,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--01998.jpg 536,140,588,217,0 790,159,833,223,0 1232,331,1272,377,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--02033.jpg 533,123,585,205,0 801,143,844,207,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--02138.jpg 533,123,585,200,0 800,143,846,207,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--02173.jpg 750,450,763,471,1 802,143,845,207,0 539,129,579,188,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--02208.jpg 751,450,764,471,1 800,143,846,207,0 533,123,585,205,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--02243.jpg 802,143,845,207,0 534,126,583,194,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--02278.jpg 806,140,834,213,0 533,123,585,200,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--02313.jpg 802,143,845,207,0 534,125,583,198,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--02348.jpg 688,426,701,447,1 800,143,846,207,0 534,123,583,200,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--02453.jpg 800,143,846,207,0 533,123,585,200,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--02488.jpg 802,143,845,207,0 538,127,581,204,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--02523.jpg 800,142,846,215,0 531,123,586,205,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--02558.jpg 545,127,594,208,1 799,148,845,219,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--02593.jpg 770,447,783,473,1 532,47,587,123,1 855,61,913,137,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--02631.jpg 756,463,772,489,1 690,442,703,463,1 654,439,667,460,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--02667.jpg 762,466,775,492,1 683,440,699,461,1 644,433,657,459,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--02772.jpg 227,424,243,450,1 862,431,881,462,1 708,373,727,404,1 627,360,649,401,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--02807.jpg 758,308,783,349,1 999,404,1024,440,1 632,300,660,341,1 0,376,17,417,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--02842.jpg 826,85,884,176,1 545,73,600,154,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--02937.jpg 815,442,828,468,1 694,406,710,432,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--02972.jpg 859,439,872,465,1 704,388,723,419,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--03007.jpg 871,348,893,384,1 1085,409,1113,450,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--03042.jpg 866,254,891,295,1 1193,342,1233,403,1 699,254,736,286,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--03197.jpg 511,444,527,465,1 727,449,740,470,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--03232.jpg 503,443,516,464,1 641,414,654,435,1 684,417,697,438,1 745,446,764,472,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--03271.jpg 765,447,778,468,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--03309.jpg 795,444,808,470,1 636,392,649,418,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--03345.jpg 359,421,372,442,1 837,438,850,459,1 628,367,641,388,1 707,363,723,394,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--03380.jpg 205,390,227,421,1 601,310,620,346,1 715,316,740,352,1 900,414,928,450,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--03415.jpg 531,170,565,226,1 1084,366,1115,407,1 742,184,779,235,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--03563.jpg 694,430,707,449,0 646,428,659,451,0 485,449,504,477,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--03602.jpg 461,442,477,461,0 700,416,713,435,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--03641.jpg 727,403,740,429,1 462,431,475,457,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--03678.jpg 456,436,469,462,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--03715.jpg 453,446,469,467,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--03750.jpg 452,439,468,470,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--03785.jpg 452,444,468,470,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--03890.jpg 746,398,762,424,1 911,450,927,471,1 673,402,686,423,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--03925.jpg 393,420,409,451,1 997,426,1019,467,1 711,375,730,411,1 799,383,821,409,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--03960.jpg 450,403,466,434,1 872,357,891,388,1 989,357,1011,388,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--03995.jpg 781,296,803,337,1 141,343,166,394,1 949,298,971,339,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence1--04030.jpg 1104,105,1165,206,1 46,219,101,310,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--00143.jpg 1178,350,1194,373,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--00178.jpg 783,377,802,405,0 668,331,690,359,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--00283.jpg 304,376,323,395,0 628,307,647,335,0 806,384,822,403,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--00318.jpg 656,363,675,391,0 432,270,454,298,0 0,349,35,399,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--00353.jpg 638,347,663,379,0 356,234,381,271,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--00388.jpg 646,323,677,369,0 318,188,343,225,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--00423.jpg 152,319,189,360,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--00793.jpg 670,413,686,432,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--00840.jpg 685,380,698,399,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--00957.jpg 688,338,713,370,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--01026.jpg 900,369,919,388,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--01062.jpg 916,374,929,393,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--01097.jpg 916,376,932,395,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--01133.jpg 916,363,938,399,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--01168.jpg 923,360,948,396,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--01203.jpg 933,352,955,393,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--01308.jpg 826,135,863,196,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--01441.jpg 820,393,833,414,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--01476.jpg 876,397,889,418,1 729,333,742,354,1 654,328,670,354,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--01511.jpg 1036,355,1058,381,1 788,240,807,271,1 660,237,682,268,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--01726.jpg 576,373,592,405,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--01770.jpg 553,367,569,386,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--01811.jpg 532,332,545,351,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--01919.jpg 490,298,515,335,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--01954.jpg 468,298,487,330,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--01989.jpg 451,276,473,313,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--02658.jpg 792,402,805,423,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--02695.jpg 881,393,894,414,1 378,257,397,293,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--02730.jpg 974,376,993,397,1 311,166,351,227,1 585,287,613,328,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--02765.jpg 1085,347,1107,378,1 716,241,741,277,1 536,234,570,284,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--02917.jpg 504,349,523,380,1 652,187,689,248,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--02952.jpg 79,336,113,382,1 714,62,745,128,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--02987.jpg 793,134,863,255,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--03032.jpg 994,74,1085,230,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--03438.jpg 637,341,650,362,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--03478.jpg 820,374,833,395,1 632,304,645,330,1 491,300,513,332,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--03513.jpg 928,312,953,353,1 574,195,599,236,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--03806.jpg 700,398,713,417,0 360,356,379,379,0 587,321,606,344,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--03841.jpg 790,364,806,383,0 220,267,254,317,0 629,250,657,287,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--03876.jpg 856,331,881,363,0 652,186,686,236,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--03911.jpg 668,147,705,211,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--03946.jpg 675,132,715,191,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--04307.jpg 694,115,722,166,1 964,310,992,351,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--04342.jpg 1254,185,1281,276,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--04635.jpg 88,279,107,310,1 760,328,773,349,1 458,396,480,428,1 677,383,693,406,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--04670.jpg 636,250,655,281,1 476,358,501,390,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--04787.jpg 730,394,743,415,1 680,363,693,384,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--04836.jpg 759,385,772,406,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--04871.jpg 880,349,896,375,1 726,252,751,288,1 676,371,689,392,1 716,383,729,404,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--04906.jpg 735,366,748,387,1 782,379,795,400,1 705,373,718,392,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--04942.jpg 779,369,795,395,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--05048.jpg 812,355,825,376,1 706,322,719,343,1 636,321,652,344,1 294,359,307,378,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--05083.jpg 744,310,760,333,1 870,350,886,373,1 254,357,273,385,1 659,308,678,336,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--05118.jpg 210,347,229,375,1 674,295,693,323,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--05153.jpg 934,344,950,363,0 778,290,800,327,0 181,349,200,377,1 678,293,697,321,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--05188.jpg 936,348,949,367,0 779,297,798,325,0 180,353,199,376,1 678,297,697,325,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--05223.jpg 936,348,949,367,0 779,295,798,327,0 178,352,200,384,1 677,297,699,325,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--05258.jpg 781,297,797,325,0 936,348,949,367,0 179,352,201,384,1 677,296,699,328,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--05363.jpg 936,348,949,367,0 780,297,799,325,0 176,352,201,384,1 672,293,703,334,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--05398.jpg 936,348,949,367,0 780,297,799,325,0 176,352,201,384,1 672,293,703,334,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--05433.jpg 936,348,949,367,0 780,297,799,325,0 176,352,201,384,1 672,293,703,334,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--05468.jpg 936,348,949,367,0 780,297,799,325,0 176,352,201,384,1 672,293,703,334,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--05503.jpg 780,297,799,325,0 176,352,201,384,1 672,293,703,334,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--05538.jpg 935,348,951,367,0 779,297,798,325,0 176,352,201,384,1 672,293,703,334,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--05573.jpg 780,297,799,325,0 176,352,201,384,1 672,293,703,334,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--05678.jpg 936,348,949,367,0 781,297,797,325,0 176,352,201,384,1 672,293,703,334,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--05713.jpg 936,348,949,367,0 777,294,802,331,0 176,352,201,384,1 672,293,703,334,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--05748.jpg 934,349,950,368,0 780,297,799,325,0 176,352,201,384,1 672,293,703,334,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--05783.jpg 935,347,951,375,0 774,293,805,339,0 674,295,702,327,1 176,352,204,389,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--05818.jpg 783,298,796,321,0 175,351,203,388,1 674,295,702,327,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--05853.jpg 936,350,949,369,0 780,296,799,328,0 175,351,203,388,1 674,295,702,327,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--05888.jpg 936,348,949,371,0 781,298,797,326,0 175,351,203,388,1 674,295,702,327,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--05993.jpg 778,297,800,325,0 936,349,949,368,0 174,350,205,391,1 672,293,703,334,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--06028.jpg 936,348,949,367,0 778,297,800,325,0 174,350,205,391,1 672,293,703,334,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--06063.jpg 935,348,951,371,0 780,296,799,333,0 174,350,205,391,1 672,293,703,334,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--06098.jpg 936,349,949,368,0 779,297,798,325,0 174,350,205,391,1 672,293,703,334,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--06133.jpg 936,347,949,370,0 780,297,799,325,0 174,350,205,391,1 672,293,703,334,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--06168.jpg 936,348,949,371,0 780,296,799,333,0 174,350,205,391,1 672,293,703,334,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--06203.jpg 781,297,797,325,0 174,350,205,391,1 672,293,703,334,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--06308.jpg 935,348,951,371,0 782,296,798,333,0 182,362,195,383,1 676,283,698,334,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--06343.jpg 936,350,949,369,0 779,297,798,325,0 181,363,194,384,1 679,294,695,330,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--06378.jpg 941,362,957,381,0 784,309,800,337,0 166,376,179,397,1 676,305,698,341,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--06413.jpg 972,355,991,383,0 786,292,814,329,0 64,366,83,392,1 666,290,691,331,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--06448.jpg 812,241,843,282,0 1057,324,1079,356,0 648,247,679,288,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--06483.jpg 1190,88,1245,169,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--06527.jpg 287,390,303,416,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--06652.jpg 864,383,877,404,1 689,313,705,339,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--06687.jpg 934,325,965,361,1 592,183,623,229,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--06745.jpg 725,399,738,420,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--06780.jpg 696,405,709,436,1 611,384,624,405,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--06820.jpg 673,387,689,413,1 545,350,558,371,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\daySequence2--06855.jpg 795,363,808,384,1 552,280,568,306,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--00000.jpg 667,385,677,401,1 520,387,533,409,0 725,385,741,413,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--00105.jpg 692,393,700,409,1 726,407,734,420,1 757,377,782,432,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--00140.jpg 685,416,695,432,1 721,430,729,443,1 752,400,777,452,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--00175.jpg 667,417,677,433,1 704,433,712,446,1 738,403,761,452,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--00210.jpg 665,377,684,418,1 704,403,715,421,1 745,369,773,424,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--00245.jpg 657,389,679,430,1 749,372,780,437,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--00280.jpg 756,357,793,428,0 653,395,667,423,0 326,372,351,416,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--00315.jpg 640,374,654,404,0 769,330,798,393,0 226,342,248,386,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--00420.jpg 876,273,914,349,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--00455.jpg 876,274,914,347,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--00490.jpg 877,265,923,344,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--00525.jpg 902,259,953,347,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--00560.jpg 1126,213,1177,298,1 664,415,681,448,0 719,438,727,460,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--00595.jpg 708,353,724,386,0 764,375,777,400,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--00630.jpg 711,385,727,421,0 773,414,780,428,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--00735.jpg 638,378,660,416,0 524,411,534,439,0 713,407,729,443,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--00770.jpg 727,391,746,424,0 645,357,668,398,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--00805.jpg 651,351,674,400,0 742,391,759,432,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--00840.jpg 657,345,680,394,0 761,388,778,432,0 493,388,512,426,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--00875.jpg 652,333,680,385,0 772,380,794,424,0 462,384,484,422,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--00910.jpg 658,308,686,365,0 795,364,815,408,0 440,366,465,410,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--00945.jpg 638,300,670,360,0 789,359,812,408,0 400,363,426,412,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--01050.jpg 395,365,417,401,0 642,304,665,342,0 794,362,813,398,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--01085.jpg 395,365,417,401,0 642,304,665,342,0 794,362,813,398,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--01120.jpg 395,365,417,401,0 642,304,665,342,0 794,362,813,398,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--01155.jpg 395,365,417,401,0 642,304,665,342,0 794,362,813,398,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--01190.jpg 395,365,417,401,0 642,304,665,342,0 794,362,813,398,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--01225.jpg 395,365,417,401,0 642,304,665,342,0 794,362,813,398,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--01260.jpg 395,365,417,401,0 642,304,665,342,0 794,362,813,398,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--01365.jpg 395,365,417,401,0 642,304,665,342,0 794,362,813,398,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--01400.jpg 395,365,417,401,0 642,304,665,342,0 794,362,813,398,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--01435.jpg 395,365,417,401,0 642,304,665,342,0 794,362,813,398,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--01470.jpg 395,365,417,401,0 642,304,665,342,0 794,362,813,398,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--01505.jpg 395,365,417,401,0 642,304,665,342,0 794,362,813,398,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--01540.jpg 395,365,417,401,0 642,304,665,342,0 794,362,813,398,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--01575.jpg 395,365,417,401,0 642,304,665,342,0 794,362,813,398,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--01680.jpg 392,361,414,404,1 639,299,663,345,1 792,359,812,399,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--01715.jpg 392,361,414,404,1 639,301,663,344,1 792,359,812,399,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--01750.jpg 392,361,414,404,1 639,301,663,344,1 792,359,812,399,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--01785.jpg 392,362,414,405,1 639,302,663,345,1 792,359,812,402,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--01820.jpg 382,367,404,410,1 635,303,661,349,1 792,362,814,408,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--01855.jpg 349,353,375,399,1 627,285,653,334,1 795,350,819,396,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--01890.jpg 298,348,331,400,1 610,275,639,327,1 797,346,823,398,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--01995.jpg 92,300,138,373,1 557,194,597,264,1 830,300,865,364,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--02030.jpg 53,307,100,383,1 543,197,583,270,1 830,307,865,374,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--02065.jpg 464,192,508,268,1 756,309,793,376,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--02101.jpg 139,164,180,220,1 465,283,503,354,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--02136.jpg 255,268,299,326,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--02233.jpg 705,418,716,440,1 714,414,731,442,1 737,433,745,449,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--02268.jpg 692,408,703,436,1 703,406,718,440,1 726,428,734,441,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--02373.jpg 569,392,580,414,1 665,381,675,403,1 680,377,693,399,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--02408.jpg 669,396,680,412,1 682,401,697,426,1 687,393,700,418,1 712,413,720,432,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--02443.jpg 671,386,682,411,1 686,395,699,423,1 693,387,704,412,1 715,412,725,428,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--02478.jpg 663,392,674,417,1 712,420,720,439,1 679,405,692,427,1 669,412,677,425,1 686,394,699,416,1 681,414,689,427,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--02513.jpg 646,388,659,413,1 728,414,738,433,1 674,388,687,416,1 702,420,710,436,1 670,405,681,427,1 656,410,664,423,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--02548.jpg 657,384,670,409,1 751,414,759,430,1 683,403,694,425,1 689,386,700,411,1 718,422,726,435,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--02583.jpg 680,415,688,431,1 681,401,696,426,1 721,422,729,438,1 687,375,707,416,1 759,402,778,440,1 649,374,674,415,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--02688.jpg 704,397,712,416,1 707,377,729,413,1 756,399,773,427,1 867,370,892,427,0 657,315,689,378,0 285,357,323,425,0 735,321,758,376,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--02723.jpg 714,411,721,427,1 681,375,701,413,1 678,395,688,416,1 734,394,753,430,1 900,351,932,422,0 614,277,648,348,0 719,284,750,349,0 97,336,141,404,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--02758.jpg 725,410,732,423,1 686,392,699,418,1 603,221,641,297,0 749,225,787,304,0 529,404,536,421,0 694,379,711,412,0 752,402,766,416,0 1015,332,1041,373,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--02793.jpg 506,402,516,419,0 570,147,605,220,0 771,155,808,226,0 1128,289,1166,360,0 656,375,669,400,0 675,393,689,423,0 686,375,703,408,0 717,408,725,430,0 747,397,760,430,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--02828.jpg 500,399,510,418,0 544,85,584,164,0 795,97,832,176,0 1228,262,1272,330,0 653,372,672,402,0 677,393,690,421,0 686,374,703,404,0 717,406,727,428,0 748,396,762,424,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--02863.jpg 536,65,577,144,0 802,76,842,155,0 675,391,689,419,0 653,370,672,400,0 503,398,510,415,0 686,372,703,402,0 714,405,728,427,0 751,397,762,422,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--02898.jpg 537,65,578,144,0 802,75,842,154,0 675,391,689,419,0 653,370,669,400,0 717,406,727,425,0 686,372,703,402,0 502,400,509,411,0 749,396,765,413,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--03003.jpg 537,65,578,144,0 802,76,843,155,0 675,391,689,419,0 653,369,672,402,0 686,371,703,404,0 749,396,765,415,0 502,400,509,411,0 717,406,728,428,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--03038.jpg 537,65,578,144,0 801,76,842,155,0 675,391,689,419,0 653,369,669,402,0 717,406,727,428,0 686,371,703,404,0 503,401,510,412,0 750,396,764,418,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--03073.jpg 538,65,579,144,0 803,75,841,154,0 676,391,689,419,0 653,370,672,400,0 717,406,728,428,0 503,398,510,415,0 686,371,703,404,0 751,397,762,425,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--03108.jpg 537,64,578,143,0 803,76,840,152,0 675,391,689,419,0 653,369,670,402,0 717,406,727,428,0 750,396,764,415,0 503,398,510,415,0 686,371,703,404,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--03143.jpg 536,65,577,144,0 801,75,841,154,0 676,391,689,419,0 653,370,672,400,0 717,406,727,428,0 750,396,764,413,0 686,371,705,404,0 503,398,510,415,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--03178.jpg 537,65,578,144,0 802,75,842,154,0 676,391,689,419,0 653,369,672,402,0 717,406,728,428,0 686,372,703,402,0 503,398,510,415,0 751,399,762,413,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--03213.jpg 547,91,587,158,1 796,84,842,172,1 675,391,689,419,0 653,370,672,400,0 686,372,703,405,0 503,398,510,415,0 717,406,727,428,0 752,400,762,419,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--03318.jpg 669,365,689,414,0 711,369,727,418,0 696,396,710,440,0 743,413,750,446,0 786,402,793,432,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--03353.jpg 655,359,675,408,0 703,363,722,412,0 734,411,744,460,0 791,394,807,457,0 445,399,452,427,0 687,397,700,438,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--03388.jpg 389,391,400,413,1 655,343,674,377,1 709,342,728,382,1 815,387,834,418,1 741,409,752,437,0 688,393,702,421,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--03423.jpg 304,366,321,403,1 650,312,672,355,1 720,318,742,355,1 854,370,874,407,1 690,382,707,420,0 749,401,760,434,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--03458.jpg 166,340,194,395,1 658,275,687,327,1 755,277,784,335,1 944,361,970,398,1 710,384,724,417,0 771,404,787,437,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--03493.jpg 617,177,655,262,1 775,188,817,270,1 1086,330,1123,379,1 689,380,706,418,0 759,402,773,440,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--03528.jpg 686,372,705,416,0 765,398,784,436,0 655,381,662,395,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--03633.jpg 855,367,880,419,0 720,327,745,376,0 663,337,674,351,1 389,386,397,403,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--03668.jpg 855,356,884,419,0 693,308,719,365,0 624,320,637,342,1 294,380,304,402,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--03703.jpg 767,304,791,344,1 949,356,977,405,1 317,385,328,407,1 686,317,697,342,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--03738.jpg 785,306,809,352,1 980,366,1002,409,1 317,393,328,415,1 697,316,714,347,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--03773.jpg 794,298,820,347,1 989,358,1015,404,1 319,389,334,411,1 706,315,721,340,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--03808.jpg 800,296,824,342,1 995,358,1023,401,1 710,308,727,339,1 318,377,337,411,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--03843.jpg 850,300,878,349,1 1055,360,1083,409,1 356,387,378,424,1 760,313,775,344,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--03948.jpg 843,156,883,232,1 1234,288,1281,355,1 651,161,686,228,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--03983.jpg 1027,22,1071,101,1 724,22,770,80,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--04040.jpg 104,268,169,362,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--04075.jpg 1167,64,1281,179,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--04131.jpg 597,366,617,394,1 632,365,647,396,1 490,393,507,421,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--04166.jpg 617,367,637,401,1 503,399,520,430,1 653,367,670,401,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--04201.jpg 615,359,635,390,1 492,391,505,422,1 656,359,671,390,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--04306.jpg 655,328,674,368,1 596,327,620,370,1 414,380,436,417,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--04341.jpg 673,330,695,376,1 605,329,631,378,1 386,389,414,429,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--04376.jpg 685,295,713,353,1 411,364,444,419,1 769,302,795,348,1 905,366,927,415,1 767,392,784,429,1 794,396,805,424,1 693,416,701,438,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--04411.jpg 264,312,317,391,1 665,413,673,426,1 665,230,703,306,1 747,392,766,417,1 778,395,789,414,1 789,240,820,307,1 980,336,1011,406,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--04446.jpg 587,409,595,422,1 546,73,590,161,1 677,386,696,408,1 709,389,722,408,1 777,82,821,167,1 1144,276,1197,355,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--04481.jpg 567,401,578,432,1 671,380,690,414,1 708,390,719,406,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--04516.jpg 699,377,710,399,1 534,402,545,415,1 659,378,672,403,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--04621.jpg 729,349,746,389,1 440,380,455,426,1 664,345,684,394,1 869,392,886,423,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--04656.jpg 365,363,393,412,1 737,329,757,363,1 911,368,937,417,1 655,319,681,371,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--04691.jpg 419,340,466,398,1 908,292,950,338,1 806,294,841,343,1 1149,348,1195,400,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--04726.jpg 372,305,423,384,1 889,248,931,321,1 1035,257,1070,315,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--04761.jpg 86,262,137,344,1 803,187,849,275,1 995,206,1030,264,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--04796.jpg 867,145,909,233,1 1111,153,1149,229,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence1--04831.jpg 1081,54,1134,133,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--00070.jpg 527,324,543,349,0 693,296,703,318,0 671,329,678,340,0 754,324,767,349,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--00105.jpg 539,325,555,353,0 719,294,729,313,0 696,329,703,343,0 784,323,798,353,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--00140.jpg 545,344,561,374,0 732,310,742,332,0 706,348,714,362,0 800,341,814,374,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--00175.jpg 549,335,565,368,0 748,298,759,320,0 721,341,728,355,0 824,329,838,367,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--00210.jpg 509,343,525,376,0 703,356,711,373,0 739,305,752,330,0 825,348,836,381,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--00245.jpg 686,352,693,366,0 729,283,743,313,0 834,332,851,376,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--00280.jpg 381,294,409,343,0 691,334,699,351,0 744,353,751,367,0 746,235,768,284,0 882,301,907,356,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--00385.jpg 84,229,127,292,0 709,332,717,349,0 767,349,778,374,0 827,109,855,172,0 1103,242,1134,305,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--00420.jpg 80,226,124,305,0 620,358,627,369,0 709,335,717,354,0 767,354,778,379,0 827,112,858,172,0 1105,244,1136,309,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--00455.jpg 81,227,119,298,0 827,112,858,172,0 1105,244,1136,309,0 620,358,627,369,0 709,335,719,354,0 767,353,778,378,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--00490.jpg 82,229,126,297,0 827,111,858,174,0 1105,244,1136,309,0 619,355,629,374,0 709,334,717,356,0 767,354,778,376,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--00525.jpg 79,227,122,303,0 827,112,858,172,0 1105,243,1136,311,0 621,358,628,369,0 709,335,717,354,0 767,354,778,379,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--00560.jpg 82,229,126,305,0 827,112,858,175,0 1105,243,1136,311,0 709,335,717,349,0 769,359,776,370,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--00595.jpg 74,235,112,311,1 826,125,855,183,1 1106,261,1135,316,1 621,362,628,376,0 709,341,719,355,0 766,360,780,382,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--00713.jpg 321,329,337,362,0 229,298,248,336,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--00748.jpg 735,356,746,381,0 639,324,655,349,0 405,358,412,372,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--00783.jpg 785,341,796,369,0 676,305,693,333,0 408,344,416,358,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--00818.jpg 805,341,818,369,0 678,299,695,332,0 623,307,630,318,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--00853.jpg 666,275,685,311,0 820,326,836,364,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--00888.jpg 657,235,679,276,0 856,298,878,344,0 165,308,172,325,1 570,245,577,256,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--00923.jpg 445,185,476,240,0 715,272,744,332,0 324,195,334,209,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--01028.jpg 568,161,609,240,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--01085.jpg 670,342,680,364,1 723,369,733,385,1 641,347,648,361,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--01120.jpg 644,314,657,342,1 702,345,715,364,1 662,350,670,363,1 611,322,619,336,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--01155.jpg 639,304,654,329,1 706,333,721,355,1 601,308,611,325,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--01190.jpg 664,299,679,327,1 742,333,755,358,1 735,347,748,366,1 691,349,699,362,1 618,304,631,323,1 435,351,445,365,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--01225.jpg 661,288,680,316,1 753,332,770,357,1 743,351,754,367,1 692,349,700,365,1 608,290,621,309,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--01260.jpg 624,272,646,309,1 739,323,758,357,1 721,351,732,373,1 665,355,673,368,1 285,340,292,354,1 557,275,573,300,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--01365.jpg 525,99,567,178,1 841,241,878,311,1 741,338,754,366,1 619,316,627,329,1 337,96,368,159,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--01425.jpg 1230,385,1247,404,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--01460.jpg 535,352,543,365,1 684,317,697,336,1 692,363,700,376,1 749,342,764,364,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--01495.jpg 472,345,480,361,1 639,302,656,327,1 716,333,731,355,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--01530.jpg 669,360,677,373,1 648,281,668,322,1 738,318,758,356,1 672,341,679,352,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--01565.jpg 416,334,435,365,1 669,277,694,325,1 780,325,802,368,1 698,355,705,366,0 727,375,734,389,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--01600.jpg 699,353,706,364,0 729,372,737,389,0 341,322,358,360,0 668,258,691,302,0 811,316,833,360,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--01705.jpg 642,67,683,140,0 1022,216,1059,289,0 699,339,707,353,0 739,366,747,383,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--01740.jpg 639,57,682,133,0 1041,216,1075,289,0 698,344,706,361,0 737,371,747,385,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--01775.jpg 630,60,681,136,1 1044,223,1090,299,1 696,342,706,359,0 736,370,744,387,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--01810.jpg 623,37,676,119,1 1078,213,1127,295,1 695,349,703,360,0 735,374,743,396,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--01845.jpg 695,341,703,355,0 737,370,745,392,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--01880.jpg 686,373,694,386,1 692,335,700,349,0 738,366,748,383,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--01915.jpg 707,363,718,382,1 718,320,728,339,0 771,357,779,379,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--02020.jpg 689,361,697,374,1 704,263,721,296,0 800,329,814,365,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--02055.jpg 695,350,708,372,1 269,317,285,350,0 720,221,742,262,0 849,311,866,349,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--02090.jpg 663,353,673,369,1 25,280,60,340,0 693,154,724,214,0 874,283,899,332,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--02125.jpg 643,352,654,371,1 671,68,709,147,0 931,250,957,305,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--02160.jpg 647,358,658,374,1 676,28,716,101,0 974,236,1003,296,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--02195.jpg 648,362,656,378,1 676,29,716,102,0 975,238,1006,303,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--02230.jpg 648,361,656,380,1 676,30,716,103,0 976,239,1004,302,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--02335.jpg 646,380,654,393,1 669,12,715,100,1 997,249,1030,313,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--02370.jpg 662,373,670,392,1 1241,178,1281,263,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--02405.jpg 700,389,708,408,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--02440.jpg 698,350,709,369,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--02475.jpg 688,344,699,360,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--02513.jpg 686,350,697,369,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--02550.jpg 683,348,691,361,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--02658.jpg 691,360,699,373,1 685,365,698,381,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--02693.jpg 688,345,696,361,1 686,355,694,368,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--02728.jpg 683,342,691,355,1 682,361,690,377,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--02763.jpg 674,348,682,361,1 673,371,681,384,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--02798.jpg 691,339,701,358,1 692,367,700,380,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--02833.jpg 703,336,714,349,1 703,360,713,379,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--02868.jpg 689,328,700,347,1 688,360,698,376,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--02973.jpg 690,313,705,332,1 691,351,702,379,1 743,348,753,367,1 543,354,551,367,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--03008.jpg 691,308,708,330,1 690,351,698,364,1 750,347,763,372,1 694,360,702,385,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--03043.jpg 691,296,710,318,1 690,348,698,361,1 760,339,775,367,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--03078.jpg 680,282,700,310,1 678,347,686,363,1 759,336,776,367,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--03113.jpg 368,332,383,357,1 656,260,678,294,1 657,346,665,359,1 753,329,770,357,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--03148.jpg 303,320,322,354,1 663,238,689,278,1 666,347,674,363,1 781,323,801,354,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--03183.jpg 177,294,203,346,1 644,198,673,250,1 654,342,662,358,1 793,307,815,341,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--03288.jpg 168,170,219,243,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--03353.jpg 651,337,658,348,0 706,358,719,377,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--03388.jpg 658,335,666,346,0 721,358,728,369,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--03423.jpg 647,316,655,333,0 715,342,723,359,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--03458.jpg 676,316,686,335,0 751,346,762,368,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--03493.jpg 684,290,694,312,0 767,323,780,351,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--03528.jpg 678,290,691,312,0 773,331,786,356,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--03633.jpg 365,296,385,334,0 641,236,660,274,0 804,304,823,342,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--03668.jpg 265,271,294,326,0 627,199,650,240,0 838,287,860,331,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--03703.jpg 11,229,52,300,0 505,137,536,183,0 782,251,811,308,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--03738.jpg 235,49,277,128,1 583,214,616,269,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--03824.jpg 839,385,849,404,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--03876.jpg 746,377,754,393,1 731,376,741,392,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--03917.jpg 679,361,687,374,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--04023.jpg 691,343,701,362,1 690,353,698,366,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--04058.jpg 672,344,680,360,1 692,341,703,363,1 689,356,699,369,1 685,363,696,377,0 711,373,718,384,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--04093.jpg 668,339,676,358,1 693,344,703,357,1 688,356,696,369,1 683,362,691,376,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--04128.jpg 653,339,663,355,1 683,341,694,357,1 678,359,686,372,1 661,358,669,371,1 672,364,680,381,0 699,373,707,390,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--04163.jpg 649,320,660,342,1 713,361,721,374,1 685,325,696,341,1 752,356,760,369,1 680,346,688,359,1 469,347,477,360,1 675,354,683,371,0 703,364,710,378,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--04198.jpg 678,309,691,328,1 723,314,734,330,1 801,346,811,365,1 712,341,720,354,1 458,324,468,349,1 707,351,714,362,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--04233.jpg 660,312,675,334,1 715,320,723,336,1 813,357,824,382,1 700,356,708,369,1 740,376,748,389,1 694,366,701,383,0 725,379,732,390,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--04338.jpg 600,138,635,193,1 777,149,812,201,1 1100,270,1137,331,1 667,331,678,350,1 699,334,709,350,1 689,353,696,364,0 726,364,734,381,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--04373.jpg 667,317,678,336,1 701,315,714,340,1 767,341,782,369,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--04408.jpg 659,318,670,334,1 696,311,713,342,1 780,351,790,370,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--04443.jpg 668,304,683,326,1 718,309,733,328,1 814,344,827,369,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--04478.jpg 649,278,666,303,1 344,330,352,343,1 712,283,727,305,1 834,329,847,351,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--04513.jpg 646,256,668,284,1 238,308,246,336,1 730,261,750,289,1 890,323,905,354,1 693,341,701,354,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--04548.jpg 636,202,662,242,1 8,267,30,319,1 759,210,785,250,1 999,307,1016,347,1 699,342,707,355,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--04653.jpg 695,315,705,334,1 790,344,803,369,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--04688.jpg 697,289,713,317,1 815,331,828,352,1 405,335,412,346,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--04723.jpg 704,290,723,323,1 849,338,863,369,1 348,346,355,357,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--04758.jpg 942,320,959,361,0 761,262,780,300,0 310,331,317,342,1 679,271,686,282,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--04793.jpg 975,216,998,265,0 1220,288,1254,348,0 382,317,392,339,1 861,228,869,247,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--04828.jpg 913,146,941,206,0 1240,256,1281,319,0 88,264,110,305,1 754,147,776,193,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--04863.jpg 936,78,965,141,0 715,70,746,127,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--04968.jpg 1012,32,1044,97,0 756,24,790,89,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--05003.jpg 1012,32,1044,97,0 756,24,790,89,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--05038.jpg 1013,32,1044,97,0 756,21,790,92,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--05073.jpg 1013,32,1044,97,0 756,24,790,89,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--05108.jpg 1012,32,1046,97,0 756,21,790,92,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--05143.jpg 1013,32,1044,97,0 756,21,790,92,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--05178.jpg 1015,31,1046,102,0 753,32,786,108,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--05297.jpg 318,349,333,377,1 424,324,437,352,1 456,328,469,353,1 442,358,450,371,1 457,357,467,370,1 503,349,522,380,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--05332.jpg 528,338,538,360,1 643,312,654,334,1 678,317,689,336,1 663,346,671,359,1 733,349,743,362,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--05367.jpg 544,334,557,356,1 677,309,688,328,1 715,314,728,327,1 779,345,789,361,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--05402.jpg 523,333,536,352,1 676,295,691,326,1 722,305,735,324,1 795,345,806,361,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--05437.jpg 654,283,669,311,1 710,288,725,313,1 683,345,691,358,1 703,345,711,358,1 799,339,810,355,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--05472.jpg 635,267,654,298,1 708,276,723,298,1 674,350,682,363,1 696,351,704,364,1 818,333,833,361,1 400,312,417,346,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--05507.jpg 617,226,641,266,1 714,237,736,268,1 674,345,682,358,1 698,346,706,359,1 864,316,884,350,1 296,284,324,333,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--05612.jpg 999,336,1018,355,1 1030,339,1047,358,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--05951.jpg 387,319,403,349,0 204,248,230,292,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--05986.jpg 729,305,745,338,0 958,235,975,276,0 1149,308,1169,352,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--06021.jpg 528,302,550,340,0 791,227,813,268,0 1005,310,1027,356,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--06056.jpg 401,261,421,305,0 728,169,753,215,0 992,275,1012,324,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--06091.jpg 313,260,341,317,0 735,143,766,200,0 1073,282,1104,345,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--06126.jpg 77,213,120,284,0 648,75,682,140,0 1082,258,1120,331,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--06253.jpg 644,379,651,390,0 658,377,666,391,0 673,356,687,386,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--06288.jpg 624,350,631,361,0 639,347,647,361,0 651,322,667,352,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--06323.jpg 652,342,659,353,0 668,338,676,360,0 681,309,697,342,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--06358.jpg 660,348,667,359,0 676,346,686,360,0 690,308,709,344,0 765,345,773,359,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--06393.jpg 662,358,669,369,0 680,355,690,374,0 695,308,715,346,0 648,316,655,327,1 662,358,669,369,1 452,353,462,375,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--06428.jpg 673,347,684,366,1 655,353,662,364,0 691,285,713,331,0 798,331,812,364,0 633,299,640,310,1 655,353,662,364,1 394,350,405,372,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightSequence2--06463.jpg 675,346,686,365,1 656,352,663,363,0 694,263,722,315,0 833,318,850,356,0 656,352,663,363,1 313,337,329,370,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip1--00035.jpg 718,298,737,329,1 930,376,949,407,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip1--00070.jpg 753,199,781,250,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip1--00108.jpg 785,352,804,383,1 914,355,927,374,0 980,387,993,406,0 1086,381,1105,404,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip1--00143.jpg 692,337,708,368,1 774,368,787,394,1 786,312,799,331,0 854,320,876,361,0 940,362,953,394,0 1127,340,1155,390,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip1--00178.jpg 667,325,683,356,1 762,357,775,388,1 786,279,802,307,0 874,298,890,321,0 977,348,993,367,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip1--00213.jpg 656,330,669,351,1 760,362,773,383,1 907,269,929,315,0 1034,334,1053,357,0 797,246,819,283,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip1--00248.jpg 1096,309,1121,346,0 948,238,967,275,0 812,204,843,259,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip1--00353.jpg 840,183,868,238,0 984,211,1021,275,0 1158,295,1186,336,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip1--00388.jpg 842,185,867,231,0 988,218,1013,255,0 1160,298,1182,330,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip1--00423.jpg 838,180,872,239,0 987,215,1015,261,0 1158,295,1186,336,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip1--00458.jpg 838,180,872,239,0 987,215,1015,261,0 1158,295,1186,336,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip1--00493.jpg 838,180,872,239,0 987,215,1015,261,0 1158,295,1186,336,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip1--00528.jpg 838,180,872,239,0 987,215,1015,261,0 1158,295,1186,336,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip1--00563.jpg 838,180,872,239,0 987,215,1015,261,0 1158,295,1186,336,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip1--00668.jpg 838,180,872,239,0 987,215,1015,261,0 1158,295,1186,336,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip1--00703.jpg 838,180,872,239,0 987,215,1015,261,0 1158,295,1186,336,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip1--00738.jpg 838,180,872,239,0 987,215,1015,261,0 1158,295,1186,336,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip1--00773.jpg 838,180,872,239,0 987,215,1015,261,0 1158,295,1186,336,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip1--00808.jpg 838,180,872,239,0 987,215,1015,261,0 1158,295,1186,336,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip1--00843.jpg 838,180,872,239,0 987,215,1015,261,0 1158,295,1186,336,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip1--00878.jpg 838,180,872,239,0 987,215,1015,261,0 1158,295,1186,336,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip1--00983.jpg 838,180,872,239,0 987,215,1015,261,0 1158,295,1186,336,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip1--01018.jpg 838,180,872,239,0 987,215,1015,261,0 1158,295,1186,336,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip1--01053.jpg 838,180,872,239,0 987,215,1015,261,0 1158,295,1186,336,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip1--01088.jpg 838,180,872,239,0 987,215,1015,261,0 1158,295,1186,336,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip1--01123.jpg 838,180,872,239,0 987,215,1015,261,0 1158,295,1186,336,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip1--01158.jpg 838,180,872,239,0 987,215,1015,261,0 1158,295,1186,336,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip1--01193.jpg 838,180,872,239,0 987,215,1015,261,0 1158,295,1186,336,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip1--01298.jpg 838,180,872,239,0 987,215,1015,261,0 1158,295,1186,336,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip1--01333.jpg 838,180,872,239,0 987,215,1015,261,0 1158,295,1186,336,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip1--01368.jpg 838,180,872,239,0 987,215,1015,261,0 1158,295,1186,336,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip1--01403.jpg 838,180,872,239,0 987,215,1015,261,0 1158,295,1186,336,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip1--01438.jpg 838,180,872,239,0 987,215,1015,261,0 1158,295,1186,336,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip1--01477.jpg 660,322,673,343,1 777,351,793,377,1 838,174,869,235,1 987,213,1015,264,1 1157,293,1182,339,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip1--01512.jpg 660,322,673,343,1 777,351,793,377,1 838,174,869,235,1 987,213,1015,264,1 1157,293,1182,339,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip1--01617.jpg 660,322,673,343,1 777,351,793,377,1 838,174,869,235,1 987,213,1015,264,1 1157,293,1182,339,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip1--01652.jpg 660,322,673,343,1 777,351,793,377,1 838,174,869,235,1 987,213,1015,264,1 1157,293,1182,339,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip1--01687.jpg 660,322,673,343,1 777,351,793,377,1 838,174,869,235,1 987,213,1015,264,1 1157,293,1182,339,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip1--01722.jpg 660,322,673,343,1 777,351,793,377,1 838,174,869,235,1 987,213,1015,264,1 1157,293,1182,339,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip1--01757.jpg 660,322,673,343,1 777,351,793,377,1 838,174,869,235,1 987,213,1015,264,1 1157,293,1182,339,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip1--01792.jpg 660,322,673,343,1 777,351,793,377,1 838,174,869,235,1 987,213,1015,264,1 1157,293,1182,339,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip1--01827.jpg 660,322,673,343,1 777,351,793,377,1 838,174,869,235,1 987,213,1015,264,1 1157,293,1182,339,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip1--01932.jpg 660,322,673,343,1 777,351,793,377,1 838,174,869,235,1 987,213,1015,264,1 1157,293,1182,339,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip1--01967.jpg 660,322,673,343,1 777,351,793,377,1 838,174,869,235,1 987,213,1015,264,1 1157,293,1182,339,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip1--02002.jpg 660,322,673,343,1 777,351,793,377,1 838,174,869,235,1 987,213,1015,264,1 1157,293,1182,339,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip1--02037.jpg 660,322,673,343,1 777,351,793,377,1 838,174,869,235,1 987,213,1015,264,1 1157,293,1182,339,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip1--02072.jpg 660,322,673,343,1 777,351,793,377,1 838,174,869,235,1 987,213,1015,264,1 1157,293,1182,339,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip1--02107.jpg 660,322,673,343,1 777,351,793,377,1 838,174,869,235,1 987,213,1015,264,1 1157,293,1182,339,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip1--02142.jpg 660,322,673,343,1 777,351,793,377,1 838,174,869,235,1 987,213,1015,264,1 1157,293,1182,339,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip2--00070.jpg 902,240,930,290,0 1219,335,1247,372,0 758,246,780,278,1 176,352,189,371,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip2--00105.jpg 900,240,931,290,0 1215,333,1249,379,0 754,241,788,287,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip2--00140.jpg 904,242,929,288,0 1219,334,1247,375,0 753,238,784,289,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip2--00175.jpg 900,240,931,290,0 1215,333,1249,374,0 761,261,777,282,1 173,358,195,384,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip2--00210.jpg 904,242,929,288,0 1219,334,1247,375,0 174,353,196,384,1 754,242,785,288,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip2--00245.jpg 1217,334,1245,375,1 903,236,928,287,1 761,250,777,278,1 168,342,199,388,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip2--00280.jpg 1216,330,1250,376,1 900,227,931,288,1 757,256,782,275,1 165,337,199,392,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip2--00385.jpg 828,0,889,77,1 1194,403,1207,426,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip2--00433.jpg 978,350,991,369,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip2--00471.jpg 980,338,993,357,0 853,303,866,322,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip2--00506.jpg 938,328,951,347,0 770,283,795,311,0 364,322,377,345,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip2--00541.jpg 1002,320,1018,348,0 778,259,809,300,0 224,317,240,345,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip2--00576.jpg 1153,300,1181,346,0 844,222,875,277,0 66,304,88,336,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip2--00611.jpg 832,159,869,230,1 1216,264,1253,325,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip2--00716.jpg 843,141,883,207,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip2--00751.jpg 842,137,885,208,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip2--00786.jpg 842,129,885,210,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip2--00821.jpg 843,146,883,207,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip2--00856.jpg 848,106,894,192,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip2--00891.jpg 865,93,911,169,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip2--00926.jpg 904,49,953,145,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip3--00057.jpg 768,346,787,383,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip3--00113.jpg 465,326,481,345,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip3--00165.jpg 680,238,693,257,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip3--00201.jpg 782,280,795,299,0 882,321,901,362,0 586,326,599,345,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip3--00236.jpg 495,310,508,329,0 743,249,762,281,0 874,309,893,346,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip3--00271.jpg 305,279,321,302,0 641,184,675,234,0 822,263,859,331,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip3--00306.jpg 150,262,181,299,0 633,132,673,200,0 888,251,934,333,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip3--00411.jpg 614,42,663,115,0 960,205,1021,305,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip3--00446.jpg 614,42,663,115,0 960,205,1021,305,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip3--00481.jpg 614,42,663,115,0 960,205,1021,305,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip3--00516.jpg 614,42,663,115,0 960,205,1021,305,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip3--00551.jpg 965,211,1014,287,1 613,31,662,122,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip3--00586.jpg 602,15,657,116,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip4--00000.jpg 404,372,417,393,1 642,319,658,345,1 716,323,729,349,1 826,382,845,408,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip4--00239.jpg 437,373,450,394,1 653,343,666,364,1 713,343,726,364,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip4--00274.jpg 373,367,386,393,1 665,324,678,350,1 746,328,759,349,1 926,374,939,395,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip4--00309.jpg 474,332,496,373,1 893,280,915,321,1 1009,280,1034,321,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip4--00344.jpg 837,220,868,276,1 1015,245,1034,276,1 190,267,224,333,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip4--00379.jpg 135,146,196,247,1 1228,46,1277,127,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip5--00000.jpg 770,360,783,386,1 843,373,859,404,1 930,415,943,441,1 1146,401,1165,432,1 673,395,686,421,1 757,424,770,450,1 337,439,353,460,1 701,362,717,383,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip5--00035.jpg 659,388,672,409,1 748,418,761,439,1 761,332,783,373,1 844,347,863,393,1 938,398,957,430,1 294,427,307,450,1 680,326,714,372,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip5--00140.jpg 663,349,679,375,1 789,390,805,411,1 860,173,909,255,0 1040,214,1077,282,0 1246,314,1274,369,0 698,173,747,219,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip5--00175.jpg 673,347,689,378,1 806,384,822,420,1 906,139,955,225,0 1113,190,1153,263,0 715,127,770,218,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip5--00210.jpg 675,356,691,387,1 808,392,827,428,1 914,133,972,237,0 1127,181,1176,285,0 717,127,778,213,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip5--00245.jpg 675,359,691,385,1 803,384,831,430,1 916,133,974,228,0 1132,187,1181,269,0 717,127,778,213,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip5--00280.jpg 675,359,691,385,1 803,384,831,430,1 916,133,974,228,0 1132,187,1181,269,0 717,127,778,213,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip5--00315.jpg 675,359,691,385,1 803,384,831,430,1 916,133,974,228,0 1132,187,1181,269,0 717,127,778,213,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip5--00350.jpg 675,359,691,385,1 803,384,831,430,1 916,133,974,228,0 1132,187,1181,269,0 717,127,778,213,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip5--00455.jpg 916,133,974,228,0 1132,187,1181,269,0 717,127,778,213,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip5--00490.jpg 918,136,970,222,0 1136,188,1173,265,0 717,127,778,213,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip5--00525.jpg 918,136,970,222,0 1136,188,1173,265,0 717,127,778,213,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip5--00560.jpg 918,136,970,222,0 1136,188,1173,265,0 717,127,778,213,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip5--00595.jpg 918,136,970,222,0 1136,188,1173,265,0 717,127,778,213,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip5--00630.jpg 918,136,970,222,0 1136,188,1173,265,0 717,127,778,213,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip5--00665.jpg 918,136,970,222,0 1136,188,1173,265,0 717,127,778,213,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip5--00770.jpg 918,136,970,222,0 1136,188,1173,265,0 717,127,778,213,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip5--00805.jpg 918,136,970,222,0 1136,188,1173,265,0 717,127,778,213,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip5--00840.jpg 918,136,970,222,0 1136,188,1173,265,0 717,127,778,213,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip5--00875.jpg 918,136,970,222,0 1136,188,1173,265,0 717,127,778,213,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip5--00910.jpg 918,136,970,222,0 1136,188,1173,265,0 717,127,778,213,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip5--00945.jpg 918,136,970,222,0 1136,188,1173,265,0 717,127,778,213,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip5--00980.jpg 918,136,970,222,0 1136,188,1173,265,0 717,127,778,213,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip5--01085.jpg 918,136,970,222,0 1136,188,1173,265,0 717,127,778,213,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip5--01120.jpg 918,136,970,222,0 1136,188,1173,265,0 717,127,778,213,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip5--01155.jpg 918,136,970,222,0 1136,188,1173,265,0 717,127,778,213,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip5--01190.jpg 918,136,970,222,0 1136,188,1173,265,0 717,127,778,213,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip5--01225.jpg 918,136,970,222,0 1136,188,1173,265,0 717,127,778,213,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip5--01260.jpg 916,131,974,226,0 1130,182,1179,273,0 717,127,778,213,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip5--01295.jpg 916,131,974,226,0 1130,182,1179,273,0 717,127,778,213,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip5--01400.jpg 916,131,974,226,0 1130,182,1179,273,0 717,127,778,213,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip5--01435.jpg 916,131,974,226,0 1130,182,1179,273,0 717,127,778,213,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip5--01470.jpg 916,131,974,226,0 1130,182,1179,273,0 717,127,778,213,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip5--01505.jpg 916,131,974,226,0 1130,182,1179,273,0 717,127,778,213,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip5--01540.jpg 916,131,974,226,0 1130,182,1179,273,0 717,127,778,213,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip5--01575.jpg 916,131,974,226,0 1130,182,1179,273,0 717,127,778,213,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip5--01610.jpg 916,131,974,226,0 1130,182,1179,273,0 717,127,778,213,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip5--01715.jpg 914,101,972,217,1 1123,161,1184,262,1 717,127,778,213,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip5--01750.jpg 919,120,968,211,1 1123,149,1184,265,1 717,127,778,213,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip5--01785.jpg 919,120,968,211,1 1123,149,1184,265,1 717,127,778,213,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip5--01820.jpg 919,120,968,211,1 1123,149,1184,265,1 717,127,778,213,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip5--01855.jpg 919,120,968,211,1 1123,149,1184,265,1 717,127,778,213,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip5--01890.jpg 919,120,968,211,1 1123,149,1184,265,1 717,127,778,213,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip5--01925.jpg 919,120,968,211,1 1123,149,1184,265,1 717,127,778,213,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip5--02030.jpg 919,120,968,211,1 1123,149,1184,265,1 717,127,778,213,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip5--02065.jpg 919,120,968,211,1 1123,149,1184,265,1 717,127,778,213,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip5--02100.jpg 919,120,968,211,1 1123,149,1184,265,1 717,127,778,213,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip5--02135.jpg 919,120,968,211,1 1123,149,1184,265,1 717,127,778,213,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip5--02170.jpg 918,124,970,215,1 1133,177,1179,263,1 717,127,778,213,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip5--02205.jpg 918,124,970,215,1 1133,177,1179,263,1 717,127,778,213,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip5--02240.jpg 918,124,970,215,1 1133,177,1179,263,1 717,127,778,213,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip5--02345.jpg 918,124,970,215,1 1133,177,1179,263,1 673,350,692,391,1 802,379,833,435,1 717,127,778,213,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip5--02380.jpg 918,124,970,215,1 1133,177,1179,263,1 673,350,692,391,1 802,379,833,435,1 717,127,778,213,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip5--02415.jpg 918,124,970,215,1 1133,177,1179,263,1 673,350,692,391,1 802,379,833,435,1 717,127,778,213,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip5--02450.jpg 918,124,970,215,1 1133,177,1179,263,1 673,350,692,391,1 802,379,833,435,1 717,127,778,213,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip5--02485.jpg 918,124,970,215,1 1133,177,1179,263,1 673,350,692,391,1 802,379,833,435,1 717,127,778,213,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip5--02520.jpg 918,124,970,215,1 1133,177,1179,263,1 673,350,692,391,1 802,379,833,435,1 713,104,780,210,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip5--02555.jpg 918,124,970,215,1 1133,177,1179,263,1 673,350,692,391,1 802,379,833,435,1 713,104,780,210,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip5--02660.jpg 539,245,606,341,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip6--00000.jpg 506,354,519,373,0 595,423,614,455,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip6--00037.jpg 318,297,337,325,0 726,316,739,335,0 837,370,850,389,0 456,406,475,425,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip6--00072.jpg 116,259,141,291,0 668,301,681,329,0 804,368,817,387,0 303,407,328,435,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip6--00107.jpg 646,288,665,311,0 804,366,817,385,0 185,401,228,451,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip6--00142.jpg 645,289,661,317,0 812,374,825,393,0 126,410,163,447,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip6--00177.jpg 644,291,663,319,0 814,378,827,397,0 112,400,158,468,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip6--00282.jpg 639,271,670,327,1 812,366,834,402,1 81,404,142,477,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip6--00317.jpg 639,284,661,320,1 820,379,833,400,1 37,406,95,479,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip6--00352.jpg 636,264,661,305,1 847,378,863,399,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip6--00387.jpg 647,172,681,228,1 948,339,973,370,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip7--00000.jpg 707,366,720,397,1 906,444,925,470,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip7--00035.jpg 799,238,845,304,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip7--00070.jpg 848,384,861,405,1 974,428,987,449,1 1092,427,1105,448,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip7--00176.jpg 860,228,882,265,1 1027,264,1049,301,1 1218,362,1240,385,1 0,404,23,445,1 696,214,739,269,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip7--00211.jpg 903,188,931,225,1 1100,230,1125,276,1 715,164,758,223,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip7--00246.jpg 908,178,939,224,0 1108,228,1133,265,0 711,162,766,226,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip7--00281.jpg 908,178,939,224,0 1108,228,1133,265,0 711,162,766,226,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip7--00316.jpg 910,177,935,218,0 1108,226,1133,263,0 711,162,766,226,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip7--00351.jpg 908,179,933,220,0 1104,225,1132,271,0 711,162,766,226,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip7--00386.jpg 906,178,937,219,0 1106,225,1131,266,0 711,162,766,226,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip7--00491.jpg 906,178,937,219,0 1106,225,1131,266,0 711,162,766,226,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip7--00526.jpg 906,180,934,217,0 1103,223,1134,273,0 711,162,766,226,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip7--00561.jpg 906,180,934,217,0 1103,223,1134,273,0 711,162,766,226,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip7--00596.jpg 906,180,934,217,0 1103,223,1134,273,0 711,162,766,226,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip7--00631.jpg 906,180,934,217,0 1103,223,1134,273,0 711,162,766,226,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip7--00666.jpg 906,180,934,217,0 1103,223,1134,273,0 711,162,766,226,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip7--00701.jpg 906,180,934,217,0 1103,223,1134,273,0 711,162,766,226,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip7--00806.jpg 906,180,934,217,0 1103,223,1134,273,0 711,162,766,226,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip7--00841.jpg 906,180,934,217,0 1103,223,1134,273,0 711,162,766,226,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip7--00876.jpg 898,172,941,236,0 1100,222,1137,272,0 711,162,766,226,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip7--00911.jpg 898,172,941,236,0 1100,222,1137,272,0 711,162,766,226,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip7--00946.jpg 898,172,941,236,0 1100,222,1137,272,0 711,162,766,226,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip7--00981.jpg 898,172,941,236,0 1100,222,1137,272,0 711,162,766,226,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip7--01016.jpg 898,172,941,236,0 1100,222,1137,272,0 711,162,766,226,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip7--01121.jpg 898,172,941,236,0 1100,222,1137,272,0 711,162,766,226,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip7--01156.jpg 898,172,941,236,0 1100,222,1137,272,0 711,162,766,226,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip7--01191.jpg 898,172,941,236,0 1100,222,1137,272,0 711,162,766,226,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip7--01226.jpg 898,172,941,236,0 1100,222,1137,272,0 711,162,766,226,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip7--01261.jpg 898,172,941,236,0 1100,222,1137,272,0 711,162,766,226,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip7--01296.jpg 898,172,941,236,0 1100,222,1137,272,0 711,162,766,226,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip7--01331.jpg 898,172,941,236,0 1100,222,1137,272,0 711,162,766,226,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip7--01436.jpg 898,172,941,236,0 1100,222,1137,272,0 711,162,766,226,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip7--01471.jpg 898,172,941,236,0 1100,222,1137,272,0 711,162,766,226,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip7--01506.jpg 898,172,941,236,0 1100,222,1137,272,0 711,162,766,226,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip7--01541.jpg 898,172,941,236,0 1100,222,1137,272,0 711,162,766,226,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip7--01576.jpg 898,172,941,236,0 1100,222,1137,272,0 711,162,766,226,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip7--01611.jpg 898,172,941,236,0 1100,222,1137,272,0 711,162,766,226,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip7--01646.jpg 904,176,935,237,1 1107,231,1129,282,1 711,162,766,226,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip7--01751.jpg 901,163,935,239,1 1097,214,1137,285,1 711,162,766,226,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip7--01786.jpg 901,163,935,239,1 1097,214,1137,285,1 711,162,766,226,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip7--01821.jpg 901,163,935,239,1 1097,214,1137,285,1 711,162,766,226,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip7--01856.jpg 901,163,935,239,1 1097,214,1137,285,1 711,162,766,226,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip7--01891.jpg 901,163,935,239,1 1097,214,1137,285,1 711,162,766,226,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip7--01926.jpg 901,163,935,239,1 1097,214,1137,285,1 711,162,766,226,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip7--01961.jpg 901,163,935,239,1 1097,214,1137,285,1 711,162,766,226,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip7--02066.jpg 898,175,938,241,1 1096,213,1139,289,1 706,161,764,238,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip7--02101.jpg 898,175,938,241,1 1096,213,1139,289,1 706,161,764,238,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip7--02136.jpg 898,175,938,241,1 1096,213,1139,289,1 706,161,764,238,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip7--02171.jpg 898,175,938,241,1 1096,213,1139,289,1 706,161,764,238,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip7--02206.jpg 898,175,938,241,1 1096,213,1139,289,1 706,161,764,238,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip7--02241.jpg 898,175,938,241,1 1096,213,1139,289,1 706,161,764,238,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip7--02276.jpg 898,175,938,241,1 1096,213,1139,289,1 710,163,762,236,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip7--02381.jpg 898,175,938,241,1 1096,213,1139,289,1 710,163,762,236,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip7--02416.jpg 898,175,938,241,1 1096,213,1139,289,1 710,163,762,236,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip7--02451.jpg 898,175,938,241,1 1096,213,1139,289,1 710,163,762,236,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip7--02486.jpg 898,175,938,241,1 1096,213,1139,289,1 710,163,762,236,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip7--02521.jpg 898,175,938,241,1 1096,213,1139,289,1 710,163,762,236,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip7--02556.jpg 898,175,938,241,1 1096,213,1139,289,1 710,163,762,236,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip7--02591.jpg 898,175,938,241,1 1096,213,1139,289,1 710,163,762,236,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip7--02705.jpg 676,265,731,346,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip8--00000.jpg 412,234,443,271,0 881,359,897,382,0 775,354,800,377,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip8--00035.jpg 98,88,141,161,0 1114,413,1133,436,0 833,327,855,355,0 696,321,724,362,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip8--00070.jpg 858,268,883,309,0 1236,377,1267,418,0 679,267,713,317,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip8--00105.jpg 826,202,866,257,0 598,201,641,269,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip8--00140.jpg 829,167,869,217,0 569,170,609,234,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip8--00175.jpg 831,170,871,225,0 565,169,617,246,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip8--00280.jpg 831,170,871,225,0 565,168,617,250,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip8--00315.jpg 831,170,871,225,0 565,170,617,243,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip8--00350.jpg 831,167,871,231,0 570,173,610,228,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip8--00385.jpg 831,170,871,225,0 568,174,611,233,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip8--00420.jpg 831,168,871,227,0 566,172,615,240,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip8--00455.jpg 831,170,871,225,0 566,173,615,237,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip8--00490.jpg 831,170,871,225,0 565,173,617,237,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip8--00595.jpg 831,167,871,231,0 570,168,616,244,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip8--00630.jpg 831,170,871,225,0 568,164,617,245,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip8--00665.jpg 831,173,871,219,0 570,167,613,243,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip8--00700.jpg 832,172,875,243,1 566,186,603,247,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip8--00735.jpg 827,35,867,106,1 426,13,493,124,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip8--00834.jpg 762,373,775,394,1 892,406,908,432,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip8--00869.jpg 915,382,928,403,1 740,336,753,357,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip8--00974.jpg 805,183,842,234,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip8--01017.jpg 150,340,205,426,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip9--00000.jpg 896,304,912,332,0 1117,386,1136,405,0 775,301,797,333,1 252,366,274,398,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip9--00035.jpg 880,271,896,299,0 1148,371,1167,390,0 78,342,118,392,1 725,264,762,305,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip9--00070.jpg 931,230,959,267,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip9--00105.jpg 982,190,1007,227,0 757,179,797,243,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip9--00140.jpg 1024,162,1055,217,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip9--00245.jpg 1025,164,1059,219,0 780,158,823,226,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip9--00280.jpg 1025,164,1059,219,0 780,158,823,226,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip9--00315.jpg 1025,164,1059,219,0 780,158,823,226,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip9--00350.jpg 1025,164,1059,219,0 780,158,823,226,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip9--00385.jpg 1025,164,1059,219,0 780,158,823,226,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip9--00420.jpg 1025,164,1059,219,0 780,158,823,226,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip9--00455.jpg 1025,164,1059,219,0 780,158,823,226,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip9--00560.jpg 1024,155,1058,226,1 780,158,823,226,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip9--00595.jpg 1024,155,1058,226,1 780,158,823,226,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip9--00630.jpg 1024,155,1058,226,1 780,158,823,226,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip9--00665.jpg 1024,155,1058,226,1 780,158,823,226,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip9--00700.jpg 1024,155,1058,226,1 780,158,823,226,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip9--00735.jpg 1024,155,1058,226,1 780,158,823,226,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip9--00770.jpg 1024,155,1058,226,1 780,158,823,226,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip9--00875.jpg 1024,155,1058,226,1 780,162,823,218,1 780,158,823,226,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip9--00910.jpg 1231,126,1281,227,1 940,146,992,222,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip9--00950.jpg 971,174,1068,315,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip10--00000.jpg 323,288,336,309,1 506,376,519,397,1 587,369,600,390,1 210,261,223,280,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip10--00035.jpg 414,1,460,82,1 998,248,1047,329,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip11--00000.jpg 150,324,169,361,0 233,334,246,353,0 346,398,365,417,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip11--00035.jpg 26,269,57,351,0 132,293,151,316,0 272,369,291,392,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip11--00140.jpg 177,243,205,289,0 296,254,318,291,0 466,349,485,377,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip11--00175.jpg 187,243,215,284,0 306,254,331,291,0 478,349,497,377,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip11--00210.jpg 187,242,215,283,0 306,252,331,289,0 478,349,497,377,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip11--00245.jpg 193,253,209,284,1 307,261,329,292,1 475,351,497,382,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip11--00280.jpg 214,257,233,288,1 331,265,353,296,1 503,357,525,388,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip11--00315.jpg 218,218,243,264,1 358,245,377,271,1 556,349,575,380,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip11--00968.jpg 292,387,305,406,0 557,368,570,391,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip12--00000.jpg 271,379,284,400,1 610,294,626,315,1 774,359,793,395,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip12--00035.jpg 71,345,96,386,1 586,226,614,252,1 834,332,859,368,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip12--00070.jpg 970,252,1013,308,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip12--00126.jpg 397,144,491,275,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip13--00000.jpg 463,177,491,223,1 616,185,638,236,1 888,300,913,346,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip13--00091.jpg 666,352,679,378,1 574,313,587,339,1 524,314,540,335,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip13--00126.jpg 594,310,607,331,1 714,355,730,381,1 528,299,544,325,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip13--00299.jpg 488,306,501,325,0 610,349,626,372,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip13--00334.jpg 643,332,656,351,0 480,276,496,295,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip13--00369.jpg 617,312,639,349,0 404,235,423,263,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip13--00404.jpg 625,282,647,319,0 342,187,361,215,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip13--00439.jpg 708,248,745,307,0 364,128,389,160,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip13--00474.jpg 359,115,384,161,0 748,255,782,301,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip13--00509.jpg 354,113,385,159,0 760,255,794,310,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip13--00614.jpg 765,261,796,307,1 350,116,381,162,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip13--00649.jpg 807,227,841,283,1 339,44,373,120,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\dayClip13--00684.jpg 16,104,89,225,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip1--00000.jpg 650,280,670,320,1 709,286,731,323,1 803,332,823,372,1 687,347,700,372,1 708,347,721,372,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip1--00035.jpg 650,267,670,298,1 725,272,744,300,1 841,337,858,362,1 695,354,703,367,1 717,354,725,367,1 406,313,423,350,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip1--00070.jpg 634,227,656,270,1 730,236,752,273,1 883,321,902,352,1 688,347,696,363,1 308,286,336,335,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip1--00105.jpg 604,166,633,218,1 744,181,773,221,1 965,301,991,344,1 682,350,690,363,1 707,351,715,364,1 130,246,167,313,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip1--00210.jpg 681,331,691,347,1 718,332,726,348,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip1--00245.jpg 673,337,683,353,1 713,340,723,353,1 536,360,544,373,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip1--00280.jpg 657,321,668,337,1 705,324,715,337,1 807,354,818,367,1 494,343,504,362,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip1--00315.jpg 656,300,671,322,1 715,304,726,320,1 838,334,853,359,1 457,327,467,352,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip1--00350.jpg 679,283,696,317,1 754,291,767,313,1 912,327,931,364,1 420,316,435,350,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip1--00385.jpg 750,257,770,285,1 851,259,870,287,1 385,291,407,337,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip1--00420.jpg 913,200,942,258,1 1066,213,1088,256,1 365,252,398,313,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip2--00000.jpg 522,371,530,387,1 732,340,745,362,1 770,339,781,367,1 853,372,863,394,1 763,371,771,387,1 782,366,793,388,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip2--00035.jpg 428,349,436,368,1 677,316,694,338,1 722,323,737,342,1 820,358,833,380,1 712,358,720,371,1 734,358,742,371,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip2--00070.jpg 377,311,388,339,1 702,271,717,299,1 758,278,777,303,1 887,322,902,353,1 737,329,747,348,1 761,332,772,345,1 808,350,816,363,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip2--00105.jpg 216,284,236,330,1 682,238,704,275,1 760,248,784,282,1 942,314,962,351,1 717,329,727,351,1 746,333,754,349,1 795,355,805,368,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip2--00140.jpg 624,146,659,207,1 759,164,792,219,1 1062,285,1090,325,1 680,327,693,346,1 713,329,724,345,1 771,352,781,365,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip2--00175.jpg 675,316,686,329,1 709,313,722,332,1 772,330,791,361,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip2--00210.jpg 660,319,673,338,1 701,320,714,339,1 779,348,790,367,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip2--00315.jpg 652,275,674,306,1 729,279,742,304,1 867,321,886,358,1 272,320,282,351,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip2--00350.jpg 645,245,669,285,1 743,252,767,283,1 928,311,950,354,1 127,299,147,342,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip2--00385.jpg 627,179,660,237,1 773,182,804,240,1 1044,279,1077,337,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip2--00420.jpg 549,15,596,100,1 824,20,873,105,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip2--00536.jpg 676,356,684,369,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip2--00576.jpg 684,356,692,369,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip2--00612.jpg 686,356,694,369,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip2--00723.jpg 686,341,694,360,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip2--00758.jpg 691,336,699,352,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip2--00793.jpg 681,339,691,355,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip2--00828.jpg 752,369,760,385,1 683,340,693,362,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip2--00863.jpg 759,358,769,377,1 681,331,692,350,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip2--00898.jpg 797,352,808,374,1 704,314,717,342,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip2--00933.jpg 814,350,827,375,1 703,309,713,331,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip2--01038.jpg 717,214,743,251,1 972,304,994,350,1 3,275,23,330,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip2--01073.jpg 713,110,753,168,1 1128,262,1175,329,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip2--01471.jpg 702,366,715,385,0 764,393,771,404,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip2--01513.jpg 711,368,722,390,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip2--01548.jpg 715,341,726,366,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip2--01583.jpg 714,330,729,355,1 817,376,825,389,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip2--01618.jpg 723,317,742,342,1 850,366,861,388,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip2--01723.jpg 939,195,967,258,0 1223,308,1248,360,0 119,272,142,316,1 791,199,810,227,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip2--01758.jpg 1001,144,1033,212,0 807,146,827,184,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip2--01793.jpg 1080,98,1111,169,0 843,99,868,151,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip2--01828.jpg 1102,88,1136,161,0 854,88,879,140,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip2--01863.jpg 1102,89,1136,165,0 854,91,879,143,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip2--01898.jpg 1102,89,1136,165,0 854,89,879,141,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip2--01934.jpg 1102,99,1131,172,1 840,93,887,169,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip2--02059.jpg 605,336,621,364,0 659,360,669,377,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip2--02094.jpg 695,344,708,369,0 752,371,762,390,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip2--02129.jpg 692,333,708,366,0 757,363,765,391,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip2--02164.jpg 692,323,708,356,0 765,361,776,380,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip2--02199.jpg 692,294,712,332,0 780,337,794,365,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip2--02234.jpg 696,279,719,323,0 804,333,820,366,0 631,282,645,312,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip2--02269.jpg 900,253,926,308,0 1042,322,1056,358,0 815,258,831,291,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip3--00070.jpg 480,318,493,343,1 710,282,725,307,1 786,325,799,347,1 863,114,900,184,1 1145,253,1185,317,1 680,123,709,169,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip3--00105.jpg 476,312,491,340,1 721,274,738,299,1 804,319,817,344,1 932,34,976,113,1 683,44,727,105,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip3--00140.jpg 1246,305,1274,351,1 964,364,986,389,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip3--00175.jpg 1033,20,1127,138,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip3--00214.jpg 644,346,657,365,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip3--00250.jpg 710,331,723,347,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip3--00285.jpg 694,319,707,338,1 777,356,787,369,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip3--00390.jpg 328,320,343,360,1 659,259,681,290,1 813,312,835,355,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip3--00425.jpg 195,296,221,351,1 668,205,699,257,1 888,294,916,343,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip3--00460.jpg 671,92,718,177,1 1039,242,1079,315,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip3--00763.jpg 671,328,682,341,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip3--00800.jpg 745,317,756,333,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip3--00836.jpg 793,313,801,329,1 850,348,861,370,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip3--00871.jpg 734,294,749,319,1 800,335,815,366,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip3--00976.jpg 652,215,680,255,1 796,307,820,350,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip3--01011.jpg 703,118,743,188,1 930,271,967,335,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip4--00000.jpg 762,311,778,333,0 818,354,832,373,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip4--00035.jpg 768,303,782,331,0 835,355,845,380,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip4--00070.jpg 743,281,759,314,0 823,344,836,372,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip4--00105.jpg 710,266,720,285,0 808,337,822,370,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip4--00140.jpg 92,320,105,348,1 538,334,551,356,1 585,212,609,249,1 722,311,742,348,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip4--00245.jpg 684,327,697,343,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip4--00280.jpg 532,358,540,374,1 690,328,705,344,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip4--00315.jpg 551,348,564,370,1 740,311,753,339,1 818,344,831,372,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip4--00350.jpg 796,308,811,330,1 889,347,904,375,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip4--00385.jpg 419,324,436,355,1 703,283,722,308,1 703,283,722,308,1 820,334,835,362,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip4--00420.jpg 238,294,258,343,1 617,244,641,278,1 770,315,792,346,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip4--00455.jpg 62,277,93,341,1 625,192,656,238,1 852,282,880,334,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip4--00595.jpg 814,294,831,325,1 899,329,913,360,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip4--00630.jpg 560,325,573,344,0 744,291,757,316,0 840,328,854,364,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip4--00665.jpg 661,267,677,292,0 774,312,793,350,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip4--00700.jpg 304,306,326,347,0 579,257,598,293,0 716,313,738,357,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip4--00735.jpg 492,310,514,348,0 838,240,860,284,0 1020,308,1045,360,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip4--00770.jpg 294,268,326,325,0 773,191,801,243,0 1015,288,1044,351,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip4--00805.jpg 58,217,105,288,0 724,108,761,181,0 1053,245,1093,321,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip4--00910.jpg 758,16,820,111,0 1182,187,1244,285,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip4--00945.jpg 758,16,820,111,0 1182,187,1244,285,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip4--00980.jpg 758,16,820,111,0 1182,187,1244,285,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip4--01015.jpg 758,27,811,109,1 1177,198,1228,280,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip4--01050.jpg 795,20,839,93,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip4--01085.jpg 561,183,635,307,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip5--00000.jpg 960,136,995,197,1 1244,270,1281,337,1 71,245,99,286,1 783,124,803,154,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip5--00105.jpg 956,124,998,203,1 1246,275,1277,333,1 71,243,97,289,1 786,120,805,158,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip5--00140.jpg 957,132,997,202,1 1247,279,1278,334,1 54,244,98,311,1 774,121,811,182,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip5--00175.jpg 1015,115,1055,182,1 796,97,834,164,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip5--00210.jpg 525,213,576,286,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip5--00304.jpg 652,302,667,330,1 694,311,709,330,1 791,343,802,362,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip5--00339.jpg 606,295,623,329,1 657,306,674,331,1 774,346,787,374,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip5--00374.jpg 208,312,221,349,1 584,264,606,301,1 651,274,670,305,1 800,330,815,352,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip5--00479.jpg 637,318,656,356,0 676,322,692,352,0 747,353,754,364,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip5--00514.jpg 621,321,640,362,0 664,322,683,363,0 742,353,756,381,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip5--00549.jpg 624,310,644,351,0 676,312,695,350,0 768,347,782,375,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip5--00584.jpg 612,290,637,339,0 675,293,700,339,0 789,336,805,374,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip5--00619.jpg 581,264,609,321,0 661,269,689,324,0 805,324,825,362,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip5--00654.jpg 565,236,596,296,0 670,237,704,308,0 866,311,891,363,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip5--00689.jpg 525,154,562,221,1 676,165,709,220,1 955,262,988,323,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip5--01093.jpg 662,334,675,355,1 711,353,725,371,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip5--01128.jpg 678,336,689,358,0 737,357,744,371,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip5--01163.jpg 664,336,675,355,0 729,358,737,380,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip5--01198.jpg 659,342,672,364,0 732,368,743,390,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip5--01233.jpg 661,327,675,360,0 747,358,758,380,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip5--01268.jpg 645,324,659,354,0 744,360,757,379,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip5--01303.jpg 651,303,668,336,0 770,343,783,376,0 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip5--01409.jpg 589,194,618,246,1 862,296,886,339,1 
+D:/STUDY/Grad/tfyolov4/tfyolov4/dataset/pictures/train\nightClip5--01444.jpg 501,90,545,163,1 928,251,966,315,1 
